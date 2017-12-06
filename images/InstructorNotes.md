@@ -28,7 +28,7 @@
 * Check out
 * Goodbye
 
-**What are some tasks you'll have to complete to create an efficient and functional calling bot? (e.g. incorporating the LUIS model)**
+**What are some tasks you'll have to complete to create an efficient and functional calling bot?**
 * Call the Bing Speech API to get text-to-speech and speech-to-text
 * Incorporate LUIS and call the intents
 * Incorporate Search and call the service to search Azure SQL

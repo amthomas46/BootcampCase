@@ -32,7 +32,7 @@ Your team is preparing a proof of concept, and your group has been tasked to sug
 
 1. Which features from Azure Search should you take advantage of?  
 2. What might your main intents in LUIS be?  
-3. What are some tasks you'll have to complete to create an efficient and functional calling bot? (e.g. incorporating the LUIS model, enabling your bot to speak)  
+3. What are some tasks you'll have to complete to create an efficient and functional calling bot?  
 4. Are there any additional Cognitive Services that you think the bot would benefit from?  
 
 Document your suggestions on the whiteboards/flipcharts provided. You will present your results.
