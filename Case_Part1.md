@@ -1,7 +1,7 @@
 # Bootcamp Case
 
 ## Scenario
-You've been assigned a new customer, Contoso LLC, which sells bicycles and bicycle equipment to its customers. Contoso currently processes new product orders and queries through human operators. They are looking for an automated solution that allows Contoso to seamlessly scale up to handle large call volumes while maintaining zero wait times and freeing up staff to manage other tasks. Currently, their product inventory is stored in Azure SQL.
+You've been assigned a new customer, Contoso LLC, which sells bicycles and bicycle equipment to its customers. Contoso currently processes new product orders and queries through human operators. They are looking for an automated solution that allows Contoso to seamlessly scale up to handle large call volumes while maintaining zero wait times and freeing up staff to manage other tasks. 
 
 ## Architecture
 Your team recently presented a potential architecture (below) that Contoso LLC approved. 
